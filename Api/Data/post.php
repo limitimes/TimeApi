@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 //设备上传数据接口
 date_default_timezone_set('PRC');
 
