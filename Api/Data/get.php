@@ -1,4 +1,5 @@
 <?php
+error_reporting(0);
 //设备获取下发数据接口
 $sn = $_GET['sn'];
 
