@@ -19,7 +19,7 @@ if(empty($ret['data'])){
 		'delay' => 20, //设备定时请求时间间隔
 		'errdelay' => 50, //设备请求失败时再次请求时间间隔
 		'interval' => 5, //有数据下发时请求时间间隔
-		'timezone' => '+8', //时区
+		'timezone' => 'GMT+08:00', //时区
 		'encrypt' => 0, //是否加密传输，暂不支持
 		'expired' => 0 //有效期
 	);
